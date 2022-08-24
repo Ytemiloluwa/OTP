@@ -3,7 +3,6 @@
 //  OneTimePassword
 //
 //  Created by Temiloluwa on 24/08/2022.
-//
 
 import Foundation
 

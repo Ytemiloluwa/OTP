@@ -37,6 +37,7 @@ struct ContentView: View {
             OTPView()
             
             //Spacer()
+            Text("")
             
             HStack {
                 
